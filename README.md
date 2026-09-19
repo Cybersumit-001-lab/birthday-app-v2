@@ -42,7 +42,7 @@ SMTP_PASS=your-yahoo-app-password
 EMAIL_FROM=r.sumit@itorizin.in
 CRON_SECRET=mybirthdaysecret2026
 
-## Daily Birthday Job
+## Daily Birthday Job 
 
 Call this URL every day (using Windows Task Scheduler, cron, or a free service):
 
