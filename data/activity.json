@@ -1,0 +1,2060 @@
+[
+  {
+    "id": "be48e8df-ca22-4712-bfd1-361fcb1b1668",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-17T18:30:02.038Z"
+  },
+  {
+    "id": "acd72d02-83fe-4bf3-975d-6077dd6b4b6c",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-17T15:47:59.650Z"
+  },
+  {
+    "id": "eaf38e60-ab2c-47d9-a832-79b7eed5309c",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-17T15:47:47.431Z"
+  },
+  {
+    "id": "5b8445f8-38ee-4393-8a0d-f218e381e605",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged out",
+    "timestamp": "2026-09-17T05:40:29.600Z"
+  },
+  {
+    "id": "977d352f-8455-43e7-a4b1-b0106446b1c9",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Prithwiraj Nandan\" deleted",
+    "timestamp": "2026-09-17T05:39:27.840Z"
+  },
+  {
+    "id": "c08cf808-5560-468c-8fc0-f32405863e08",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-17T05:38:42.373Z"
+  },
+  {
+    "id": "0e185b0f-bee8-4a70-bbcd-13dad4a7c291",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-09-16T18:30:16.489Z"
+  },
+  {
+    "id": "4a47b6b2-c04f-4372-b289-064b37c6673c",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Automated Birthday Card sent to \"Rajashi Shome\" (s.rajashi@itorizin.in)",
+    "timestamp": "2026-09-16T18:30:16.486Z"
+  },
+  {
+    "id": "01c3ff8c-8cbb-44a0-b5aa-6f9c1c1fd05c",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-16T16:23:52.370Z"
+  },
+  {
+    "id": "60880d0d-ca0a-4f92-bac3-20ceb10bee87",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-16T10:17:46.550Z"
+  },
+  {
+    "id": "20c30da0-13da-4133-9b59-6899459ad11f",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Arindam  Ray\" (r.arindam@itorizin.in) registered/updated",
+    "timestamp": "2026-09-16T07:40:58.255Z"
+  },
+  {
+    "id": "82a173b3-b54a-47ed-a617-758ec2e78092",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-16T07:28:50.106Z"
+  },
+  {
+    "id": "85c47ab4-ee72-433b-9db0-e70f7c91a95f",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-09-15T18:30:15.156Z"
+  },
+  {
+    "id": "9b536a7e-6338-4a93-af95-b19af30cf925",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Automated Birthday Card sent to \"Shreya Hazra\" (h.shreya@itorizin.in)",
+    "timestamp": "2026-09-15T18:30:15.153Z"
+  },
+  {
+    "id": "bc93b6c7-9207-4e9a-941e-3f95bfd5b522",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-09-14T18:30:16.063Z"
+  },
+  {
+    "id": "e07dbe9c-6ce3-4c4e-8d65-92f0133cf3eb",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Automated Birthday Card sent to \"Sukanta Mondal\" (m.sukanta@itorizin.in)",
+    "timestamp": "2026-09-14T18:30:16.059Z"
+  },
+  {
+    "id": "3338a2eb-079c-4785-95b9-f58b07cfb435",
+    "action": "ADMIN_ADDED",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" added new admin \"Prerana\"",
+    "timestamp": "2026-09-14T12:15:33.843Z"
+  },
+  {
+    "id": "ecc8925d-93d4-4863-82ff-296cdb2c06c1",
+    "action": "ADMIN_REMOVED",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" removed admin ID: 91422484-7a2e-4191-83ec-c06c463f02e6",
+    "timestamp": "2026-09-14T12:14:55.701Z"
+  },
+  {
+    "id": "8e2e5d8f-edb5-46fb-8b94-eee32f1cda03",
+    "action": "ADMIN_ADDED",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" added new admin \"Prerana  D\"",
+    "timestamp": "2026-09-14T12:12:59.771Z"
+  },
+  {
+    "id": "0c53ad96-c8e6-4752-97d2-3c8cbff59277",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-14T12:11:45.625Z"
+  },
+  {
+    "id": "22467ddb-754a-4468-9486-b4431484ea1c",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-13T21:04:37.951Z"
+  },
+  {
+    "id": "85b9a417-78e5-4523-8d70-53cc25f331bb",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-13T18:30:02.367Z"
+  },
+  {
+    "id": "3473b10e-37c8-4b30-86c9-078718f4e96b",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-09-12T18:30:15.127Z"
+  },
+  {
+    "id": "26bd86ed-32ae-4351-8675-a561ff0a3af5",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Automated Birthday Card sent to \"Sameya Ashraf\" (a.sameya@itorizin.in)",
+    "timestamp": "2026-09-12T18:30:15.125Z"
+  },
+  {
+    "id": "2ef22cb9-e0b6-42f9-b91b-299dc8f2fed3",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-12T07:35:19.560Z"
+  },
+  {
+    "id": "23fe8960-fe27-430e-b550-73c5ad6732b9",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-12T07:34:24.497Z"
+  },
+  {
+    "id": "5da82488-c31d-4643-976e-d869f50bdcb5",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-12T07:21:23.670Z"
+  },
+  {
+    "id": "3be28156-43ea-40d1-9549-274bf92d3e24",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-12T07:20:42.238Z"
+  },
+  {
+    "id": "b28eac57-b81b-4d09-8dea-149ee99b084b",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-12T07:19:46.895Z"
+  },
+  {
+    "id": "c290e6c9-9097-4e3a-9185-4f10e9b907ad",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-12T07:19:42.986Z"
+  },
+  {
+    "id": "3468ac09-9022-444f-948e-10afd2d3f070",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-12T07:19:31.837Z"
+  },
+  {
+    "id": "af9ea424-305c-4eeb-9877-35d4a89596c4",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-12T07:15:40.964Z"
+  },
+  {
+    "id": "a38a75c4-e00e-464d-8099-9a955bdd84c0",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-12T07:08:27.846Z"
+  },
+  {
+    "id": "4a41b1c8-3a2c-4c6b-a56a-67f6309abb3a",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-11T18:30:03.806Z"
+  },
+  {
+    "id": "63cc3b0e-eb12-4ecd-9c8b-0656aa81e53d",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-10T18:30:01.491Z"
+  },
+  {
+    "id": "c6511e66-2a3e-4d7e-adcc-b6847b9e736c",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-10T10:05:42.247Z"
+  },
+  {
+    "id": "6324427c-0f55-459f-81a6-4f42651f805c",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-10T08:28:55.118Z"
+  },
+  {
+    "id": "c10c28ae-e500-479b-84e1-acfb4cc1f053",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-10T08:28:44.450Z"
+  },
+  {
+    "id": "1c20e360-cb84-4176-8e01-0e8a5fc1415d",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Deb Kumar Roy\" (connect@itorizin.in) updated",
+    "timestamp": "2026-09-10T06:52:24.385Z"
+  },
+  {
+    "id": "8ed599e5-56ee-4e2c-92cc-23e63fefc5af",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-10T06:34:51.771Z"
+  },
+  {
+    "id": "19dbfe60-49ba-4685-b284-ca50d523ccf5",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-09T19:09:10.107Z"
+  },
+  {
+    "id": "aa0cbcf0-bfaa-40d9-953f-fb543699e103",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" (r.sumit@itorizin.in) updated",
+    "timestamp": "2026-09-09T19:08:31.219Z"
+  },
+  {
+    "id": "0c57106f-e1af-4ef7-a5e4-0b76a5611108",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-09T19:08:09.933Z"
+  },
+  {
+    "id": "62296581-3335-40ea-83bd-0173f1f69aff",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-09T19:06:30.963Z"
+  },
+  {
+    "id": "2c8fb8b0-f642-4f5c-8fa2-6fbc176f16bb",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-09T19:05:42.065Z"
+  },
+  {
+    "id": "bd625661-2862-4525-a8c8-96d89f445efc",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-09T18:30:02.751Z"
+  },
+  {
+    "id": "8e95c136-3353-4b81-8d83-0091566ae5ee",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-09T12:43:02.382Z"
+  },
+  {
+    "id": "be500c16-acfd-4de1-923c-18a98e75ee7d",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-09T10:58:48.800Z"
+  },
+  {
+    "id": "2d2bf462-74cb-4d82-9c74-436fb51bb46b",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-09T10:57:54.202Z"
+  },
+  {
+    "id": "9fa694bf-66c6-4f1d-b082-fa0b6155cc34",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-09T10:48:06.832Z"
+  },
+  {
+    "id": "05fcf080-69ac-40ac-8ca1-00d77e4cf4b9",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-08T18:30:03.985Z"
+  },
+  {
+    "id": "64696597-4afe-41db-8772-8f5633489ccd",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-08T17:40:27.021Z"
+  },
+  {
+    "id": "c52cad22-75c6-443f-aef4-372b38493830",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-08T02:45:48.189Z"
+  },
+  {
+    "id": "98b6b63f-5f1f-48b9-89a8-1c6140da7f9c",
+    "action": "MAIL_SENT",
+    "actor": "Anubrata M",
+    "detail": "Birthday card sent to \"Koustav Roy\" (r.koustav@itorizin.in) by admin \"Anubrata M\"",
+    "timestamp": "2026-09-08T02:37:43.244Z"
+  },
+  {
+    "id": "b1576d3a-7ea2-472a-8c6b-8895d682ef41",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-08T02:36:58.677Z"
+  },
+  {
+    "id": "1e0e016a-66c7-4cfd-8b11-49abc1ea8c75",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Koustav Roy\" (r.koustav@itorizin.in) registered/updated",
+    "timestamp": "2026-09-08T02:31:03.693Z"
+  },
+  {
+    "id": "1ebf570f-a192-4292-afa2-3113043c7d39",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-07T18:30:04.894Z"
+  },
+  {
+    "id": "01c791f8-5971-4150-9d3a-0097eafee3c0",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-07T13:29:06.533Z"
+  },
+  {
+    "id": "2692cbf9-ab68-4e94-891a-4a7c9580d20b",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-07T13:28:39.140Z"
+  },
+  {
+    "id": "1304a1bd-6dfe-41dc-a82e-c669f4917195",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged out",
+    "timestamp": "2026-09-07T13:22:42.866Z"
+  },
+  {
+    "id": "79403d92-65bb-464a-a4ee-23357012f987",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Ravi Kumar\" (k.ravi@itorizin.in) registered/updated",
+    "timestamp": "2026-09-07T13:21:35.701Z"
+  },
+  {
+    "id": "2e156a8b-d457-44e8-bb46-3e32b4faf911",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-07T13:20:58.337Z"
+  },
+  {
+    "id": "c2619bca-7d79-4dd3-a5cb-061d69d1ed40",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-07T13:08:46.005Z"
+  },
+  {
+    "id": "e7f45f40-ac41-493f-8541-ef694217fe4f",
+    "action": "ADMIN_ADDED",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" added new admin \"Sampad\"",
+    "timestamp": "2026-09-07T13:01:38.471Z"
+  },
+  {
+    "id": "6d9bad9e-f0dc-45d0-99a9-7b136e3464fb",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-07T12:54:20.620Z"
+  },
+  {
+    "id": "b47acf1a-16f2-4e29-95b3-c02ad67a4ff9",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-06T18:30:01.142Z"
+  },
+  {
+    "id": "11de0e71-0ca4-4807-a4af-76002c51a8fa",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-05T18:30:03.734Z"
+  },
+  {
+    "id": "51f560e6-eed0-484f-b744-8961ec2c7afd",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-05T04:22:49.353Z"
+  },
+  {
+    "id": "8769ea35-98e2-4c69-a762-bce6c215a1f3",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Shruti Banerjee\" (b.shruti@itorizin.in) updated",
+    "timestamp": "2026-09-05T04:21:58.437Z"
+  },
+  {
+    "id": "92db6b55-a3d9-47bc-9d49-1ecea470e0df",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-05T04:21:27.479Z"
+  },
+  {
+    "id": "c3d33172-64b9-42cc-b41c-d4f085ff8d12",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-04T18:30:00.016Z"
+  },
+  {
+    "id": "b7285bda-746d-44d2-b1ea-d775f8779452",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Basudev Gangopadhyay\" (g.basudev@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:41:54.733Z"
+  },
+  {
+    "id": "658ecc16-eb62-4bb7-93c0-5fb7266cf7a6",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Deb Kumar Roy\" (connect@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:41:08.181Z"
+  },
+  {
+    "id": "ff866c48-e44c-4fe2-9ab0-c30f0a781f2e",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Indranil Banerjee\" (b.indranil@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:39:37.245Z"
+  },
+  {
+    "id": "a7b7e6aa-b197-4862-9158-29bce652c6e4",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Subhasish Munshi\" (m.subhasish@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:37:59.954Z"
+  },
+  {
+    "id": "747ff0be-3352-4d70-a759-6877c2b566c8",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Samir Chaudhury\" (c.samir@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:36:39.576Z"
+  },
+  {
+    "id": "4473de5c-f6f4-4afe-acae-7f24caba4223",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Pritam Mandal\" (m.pritam@itorizin.in) updated",
+    "timestamp": "2026-09-04T07:36:02.609Z"
+  },
+  {
+    "id": "b51ac1c1-90c3-46bd-9b5f-c995af9d42c5",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Pritam Mandal\" (m.pritam@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:35:53.524Z"
+  },
+  {
+    "id": "4c2dd8a9-0b21-4e27-a1ec-59fcf262d70d",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Rabbi Wasti\" (w.rabbi@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:28:02.992Z"
+  },
+  {
+    "id": "22751c24-6bc6-4178-b25b-040433fd3e6f",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Kumar Ujjwal\" (u.kumar@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:26:59.412Z"
+  },
+  {
+    "id": "61203cc4-a084-4340-9124-a436ade1abb5",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Sukanta Mondal\" (m.sukanta@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:22:57.446Z"
+  },
+  {
+    "id": "1b5f5b17-4e1f-46ea-9116-2e0829494930",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Lina Sen\" (s.lina@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:22:28.084Z"
+  },
+  {
+    "id": "c66e2da8-4412-4558-96c8-b0928c66f5e6",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Pritam Maity\" (m.pritam@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:21:58.967Z"
+  },
+  {
+    "id": "344481d5-3b59-4a5e-8aa5-1bd663692c43",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Prastuti Malakar\" (m.prastuti@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:21:30.409Z"
+  },
+  {
+    "id": "7bda843a-d60e-4f7b-a422-a67ef25fb40b",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Shreya Hazra\" (h.shreya@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:18:46.052Z"
+  },
+  {
+    "id": "7c75bf94-d5e9-494f-9e72-042ac2f1f905",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Aznan Yousef\" (y.aznan@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:18:17.323Z"
+  },
+  {
+    "id": "d701d371-a981-44ab-8e7f-78c854617224",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Arnab Bag\" (b.arnab@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:17:48.506Z"
+  },
+  {
+    "id": "8d59191a-4542-4e9d-8443-e805038c0401",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Anirban Khanta\" (k.anirban@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T07:17:18.985Z"
+  },
+  {
+    "id": "8d743de1-6946-4c8e-9009-e9d62d08145b",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Govind Pandey\" (p.govind@itorizini.in) registered/updated",
+    "timestamp": "2026-09-04T05:52:35.281Z"
+  },
+  {
+    "id": "7aa9800a-147a-4e4c-9887-b214aafd74d0",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Mehul Bhattacharya\" (b.mehul@itorizin.in) registered/updated",
+    "timestamp": "2026-09-04T05:40:29.442Z"
+  },
+  {
+    "id": "78440c01-edcb-41f2-b1be-96833413d880",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Raj Biswas\" (b.raj@itorizin.in) updated",
+    "timestamp": "2026-09-04T05:36:33.428Z"
+  },
+  {
+    "id": "5b0714c9-192f-410f-aa10-8049c3611be6",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-09-04T05:35:26.656Z"
+  },
+  {
+    "id": "498c1438-7aa0-4894-82cc-375e330a8ca1",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-03T18:30:01.904Z"
+  },
+  {
+    "id": "ebc2d146-31d3-4e42-9f51-85c4ca8d6233",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-02T18:30:02.245Z"
+  },
+  {
+    "id": "b0b893eb-0852-49a6-a159-9abb0d2b5ed3",
+    "action": "ADMIN_LOGOUT",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged out",
+    "timestamp": "2026-09-02T10:52:02.735Z"
+  },
+  {
+    "id": "338059ba-d881-4a68-b1d6-54adcde608b5",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-02T10:51:17.756Z"
+  },
+  {
+    "id": "623ed47a-3351-4e75-b47b-6702561cda65",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-02T08:19:10.742Z"
+  },
+  {
+    "id": "4067e115-a7a3-4fd5-b28a-73c46be26403",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-09-01T18:30:00.041Z"
+  },
+  {
+    "id": "f9c744c3-a22b-423b-b81d-2bc310f79e72",
+    "action": "ADMIN_REMOVED",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" removed admin ID: 0f042f30-ed8f-48b6-96f4-9b3920bfc230",
+    "timestamp": "2026-09-01T14:08:08.775Z"
+  },
+  {
+    "id": "ba79bace-437c-45a2-9901-7815b69e069b",
+    "action": "ADMIN_LOGIN",
+    "actor": "Sumit",
+    "detail": "Admin \"Sumit\" logged in",
+    "timestamp": "2026-09-01T14:06:52.956Z"
+  },
+  {
+    "id": "00bbf259-9904-4c5d-a269-01ef21e7f372",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Ritisha Nandy\" (n.ritisha@itorizin.in) by admin \"admin\"",
+    "timestamp": "2026-09-01T01:35:04.739Z"
+  },
+  {
+    "id": "53d13e8a-8607-4e57-90ac-977caaefb7c6",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Supratim Lekry\" (l.supratim@itorizin.in) by admin \"admin\"",
+    "timestamp": "2026-08-31T23:38:45.073Z"
+  },
+  {
+    "id": "0883d183-6495-4f77-bedb-455fc82488cf",
+    "action": "ADMIN_REMOVED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" removed admin ID: f97a0ab2-981e-4750-8654-3353d81b13c8",
+    "timestamp": "2026-08-31T23:35:59.933Z"
+  },
+  {
+    "id": "bb4fcbec-e488-45e3-8e2a-f3d920aab6b0",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-31T23:35:51.347Z"
+  },
+  {
+    "id": "6c3fffbd-a07d-40bd-a42f-a7f24657c639",
+    "action": "ADMIN_LOGOUT",
+    "actor": "hacker",
+    "detail": "Admin \"hacker\" logged out",
+    "timestamp": "2026-08-31T23:35:38.271Z"
+  },
+  {
+    "id": "751f96b8-d06b-4ac0-b99f-96cd98298748",
+    "action": "ADMIN_LOGIN",
+    "actor": "hacker",
+    "detail": "Admin \"hacker\" logged in",
+    "timestamp": "2026-08-31T23:34:56.247Z"
+  },
+  {
+    "id": "a11cd26e-51b7-4e7b-a5ea-a8a6bcf10b21",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-31T23:34:50.270Z"
+  },
+  {
+    "id": "0c41fc07-c37c-4599-aa57-4397cb29e85b",
+    "action": "ADMIN_ADDED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" added new admin \"hacker\"",
+    "timestamp": "2026-08-31T23:34:45.885Z"
+  },
+  {
+    "id": "aa444d99-db05-4557-bab2-89019fab4f17",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-31T23:34:13.622Z"
+  },
+  {
+    "id": "9e32db34-5535-4303-b366-cf95dd168b74",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-31T23:33:37.039Z"
+  },
+  {
+    "id": "bab8a207-1fff-4bc4-9349-a68807b27365",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"\"><script>alert(\"1\")</script>\" deleted",
+    "timestamp": "2026-08-31T23:29:54.297Z"
+  },
+  {
+    "id": "704e9bce-5a9b-4c81-90e2-3b7c3ace86c5",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-31T23:28:37.018Z"
+  },
+  {
+    "id": "1f674066-a8c3-44e3-b677-50ff25a55c4c",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"\"><script>alert(\"1\")</script>\" (test@test.com) registered/updated",
+    "timestamp": "2026-08-31T23:28:15.057Z"
+  },
+  {
+    "id": "2b3f617c-e100-43c2-9f74-d80914645f71",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"test\" (test@test.com) registered/updated",
+    "timestamp": "2026-08-31T23:26:53.319Z"
+  },
+  {
+    "id": "92cefe38-e1a1-4d2a-b89b-917bf2bba3e8",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-31T23:25:43.540Z"
+  },
+  {
+    "id": "25a1345d-4dd4-4c11-b093-094e77837b00",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-31T23:25:32.312Z"
+  },
+  {
+    "id": "875df36f-8e4a-4066-ab43-d1b719efea9b",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Ran birthday check: no birthdays found for today",
+    "timestamp": "2026-08-31T18:30:01.637Z"
+  },
+  {
+    "id": "f84d9beb-3a21-43d1-aa38-3aa9fad0cffb",
+    "action": "ADMIN_ADDED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" added new admin \"Sumit\"",
+    "timestamp": "2026-08-31T15:56:19.299Z"
+  },
+  {
+    "id": "6d8852cf-6da8-4f45-bb1b-cf32ceeaa568",
+    "action": "ADMIN_REMOVED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" removed admin ID: 84243e7a-5747-41ed-b0b8-c4ac272b73a5",
+    "timestamp": "2026-08-31T15:56:03.580Z"
+  },
+  {
+    "id": "4d3ae551-ed34-4c41-97ce-923f5dd1828a",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Sayantan Das\" deleted",
+    "timestamp": "2026-08-31T11:42:00.126Z"
+  },
+  {
+    "id": "eaeca883-8be8-4aab-bfaf-e36c820dd6b0",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Arnab Bag\" deleted",
+    "timestamp": "2026-08-31T11:41:54.766Z"
+  },
+  {
+    "id": "09bd8650-9a91-4778-97bd-190ff879bc90",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Sukanta Mondal\" deleted",
+    "timestamp": "2026-08-31T11:41:50.722Z"
+  },
+  {
+    "id": "bcbdac16-ba96-4710-9ab5-fbfbef5d0d8d",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Shreya Hazra\" deleted",
+    "timestamp": "2026-08-31T11:41:47.154Z"
+  },
+  {
+    "id": "b7d41663-729b-42c7-9d62-b6b1be81056c",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Koustav Roy\" deleted",
+    "timestamp": "2026-08-31T11:41:44.969Z"
+  },
+  {
+    "id": "79f8c6a9-3419-437a-953d-2f25f18406cf",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Anirban Khanta\" deleted",
+    "timestamp": "2026-08-31T11:41:34.502Z"
+  },
+  {
+    "id": "0f307bd2-b9b1-4e2f-8756-809399b95f61",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Basudev Gangopadhyay\" deleted",
+    "timestamp": "2026-08-31T11:40:52.712Z"
+  },
+  {
+    "id": "d6d019cc-a050-4cc6-9cf2-527532ad2558",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Sandeepan Basu\" deleted",
+    "timestamp": "2026-08-31T11:40:45.582Z"
+  },
+  {
+    "id": "6c2c2b09-2b95-443d-b9bb-d917c420f555",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Samir Chaudhury\" deleted",
+    "timestamp": "2026-08-31T11:40:39.997Z"
+  },
+  {
+    "id": "800a9ec3-52dd-4945-805d-b34c07c69390",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Indranil Banerjee\" deleted",
+    "timestamp": "2026-08-31T11:40:29.255Z"
+  },
+  {
+    "id": "4f3bc36f-edc7-4d96-acc4-476f9881d99a",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Deb Kumar Roy\" deleted",
+    "timestamp": "2026-08-31T11:40:16.726Z"
+  },
+  {
+    "id": "5a3d3e03-2fb3-4862-abf7-7ee99090d72a",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Supratim Lekry\" (l.supratim@itorizin.in) by admin \"sumit\"",
+    "timestamp": "2026-08-31T11:36:37.842Z"
+  },
+  {
+    "id": "09498c52-8d37-4219-bc5d-6ce7b19d8bb8",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Supratim Lekry\" (l.supratim@itorizin.in) by admin \"sumit\"",
+    "timestamp": "2026-08-31T11:35:12.603Z"
+  },
+  {
+    "id": "632d44f6-312f-4e4d-8944-224873d8ec7c",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Basudev Gangopadhyay\" (g.basudev@itorizin.in) by admin \"sumit\"",
+    "timestamp": "2026-08-31T11:19:01.422Z"
+  },
+  {
+    "id": "cb0108d8-2edd-4fc0-a3cc-97b7cf4cb9e9",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Anubrata Mazumdar\" (m.anubrata@itorizin.in) by admin \"sumit\"",
+    "timestamp": "2026-08-31T11:18:07.452Z"
+  },
+  {
+    "id": "b6a74e24-d32d-46d5-98dd-0979d5d8b4fe",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Supratim Lekry\" (l.supratim@itorizin.in) by admin \"sumit\"",
+    "timestamp": "2026-08-31T11:14:26.607Z"
+  },
+  {
+    "id": "2bf2446a-4461-41d7-89a3-baf6a73adbfc",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Sayantan Das\" (d.sayantan@itorizin.in) registered/updated",
+    "timestamp": "2026-08-31T11:04:08.593Z"
+  },
+  {
+    "id": "3489fded-61e9-44f2-bc5f-ad162c81f318",
+    "action": "ADMIN_LOGIN",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged in",
+    "timestamp": "2026-08-31T10:53:12.271Z"
+  },
+  {
+    "id": "8bfd20ff-89a5-4b32-ada6-55d063c27339",
+    "action": "ADMIN_LOGOUT",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged out",
+    "timestamp": "2026-08-31T10:51:59.179Z"
+  },
+  {
+    "id": "210cf9db-d608-411c-a4fa-8111ad033fe0",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Shruti Banerjee\" (b.shruti@itorizin.in) registered/updated",
+    "timestamp": "2026-08-31T10:31:00.588Z"
+  },
+  {
+    "id": "339b994e-01ae-4260-a6e3-80dd81edb86c",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sukanta Mondal\" (m.sukanta@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:29:35.444Z"
+  },
+  {
+    "id": "86af119d-79ba-4163-a135-fb743ae64e03",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Navoneel Das\" (d.navoneel@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:29:17.561Z"
+  },
+  {
+    "id": "56b5f400-790f-40b5-bf76-8684647efd0c",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Suraj Bhokta\" (b.suraj@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:28:59.879Z"
+  },
+  {
+    "id": "0f4e4b8a-13ca-4d14-8ac5-ad083afad407",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Arnab Bag\" (b.arnab@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:28:34.921Z"
+  },
+  {
+    "id": "c5e72e78-bc28-4787-a80f-9210f862b240",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Indranil Banerjee\" (b.indranil@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:28:14.366Z"
+  },
+  {
+    "id": "59ead93a-2083-4da1-a9d2-278c9364bb6a",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" (r.sumit@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:27:51.587Z"
+  },
+  {
+    "id": "2fea2fc5-c573-493c-9434-68ec319b999d",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Susmita Sarkar\" (s.susmita@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:27:30.096Z"
+  },
+  {
+    "id": "54875ca4-7bb9-437c-9232-d2c537782e89",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Bhaskar Saha\" (s.bhaskar@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:27:13.141Z"
+  },
+  {
+    "id": "f8161c5f-0d44-4a19-852e-bfea8e3b167e",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Abirlal Bera\" (b.abirlal@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:26:51.001Z"
+  },
+  {
+    "id": "64037fee-5228-4ecc-bdef-d3be6a16b3cc",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Chandan Mukhiya\" (m.chandan@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:26:30.923Z"
+  },
+  {
+    "id": "7c325b7f-d9c0-4ca8-bd71-43d5c8142e85",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Anirban Khanta\" (k.anirban@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:26:07.661Z"
+  },
+  {
+    "id": "4b881c9a-580d-4bd6-8ebb-ec96dbc18221",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Shreya Panda\" (p.shreya@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:25:42.949Z"
+  },
+  {
+    "id": "76fbe0d9-a686-4323-9320-bac98ef6b733",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sandeepan Basu\" (b.sandeepan@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:25:35.269Z"
+  },
+  {
+    "id": "2d17ed89-94c0-4c1a-8b26-2a3ea99eabbe",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Joy\" deleted",
+    "timestamp": "2026-08-31T10:25:25.039Z"
+  },
+  {
+    "id": "5f7ee505-9123-48cf-8244-2a171b52dab3",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Prithwiraj Nandan\" deleted",
+    "timestamp": "2026-08-31T10:25:05.175Z"
+  },
+  {
+    "id": "25b2c8fe-a2da-4cfd-ad25-f41387075bbb",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Koustav Roy\" (r.koustav@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:24:18.173Z"
+  },
+  {
+    "id": "6abe8361-147a-4264-80a2-fa846cc417c0",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Swagat Das\" (d.swagat@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:23:55.522Z"
+  },
+  {
+    "id": "34d05d0c-131f-4a05-8e5d-a42bd7ae37d2",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Syed Mohammad Rameez Hayat\" (h.rameez@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:23:34.789Z"
+  },
+  {
+    "id": "713c8b25-263a-4dbb-85f2-ee087ec2389b",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Supratim Lekry\" (l.supratim@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:23:12.226Z"
+  },
+  {
+    "id": "9dfdd4ae-857e-43fe-b7bf-0243e489e207",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Samir Chaudhury\" (c.samir@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:22:47.595Z"
+  },
+  {
+    "id": "4e83f29f-642e-44a0-997d-b2409d6a050f",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sandeepan Basu\" (b.saneepan@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:21:58.281Z"
+  },
+  {
+    "id": "c2609116-0436-44af-a97c-8beab6f46039",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Munnangi Kranthi Kumar\" deleted",
+    "timestamp": "2026-08-31T10:21:30.598Z"
+  },
+  {
+    "id": "04acdc35-490d-40bf-8730-c78cee92466a",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Ritisha Nandy\" (n.ritisha@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:21:17.593Z"
+  },
+  {
+    "id": "c17017f1-d723-4619-8d7b-d4a067ff0be2",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Priya Biswas\" (b.priya@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:20:24.467Z"
+  },
+  {
+    "id": "af5344ea-029d-4735-a685-77e19499772d",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Deb Kumar Roy\" (connect@itorizin.in) updated",
+    "timestamp": "2026-08-31T10:20:03.152Z"
+  },
+  {
+    "id": "2844da4a-0502-4bbe-9c2f-e79628981604",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "Anubrata M",
+    "detail": "Cron schedule updated to 00:00 by \"Anubrata M\"",
+    "timestamp": "2026-08-31T10:19:08.843Z"
+  },
+  {
+    "id": "b66e87da-f348-45c9-9649-32573aa24e02",
+    "action": "ADMIN_LOGIN",
+    "actor": "Anubrata M",
+    "detail": "Admin \"Anubrata M\" logged in",
+    "timestamp": "2026-08-31T10:18:57.036Z"
+  },
+  {
+    "id": "fd3dc2ca-a20f-48b7-992c-0fa4ec0795ea",
+    "action": "ADMIN_ADDED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" added new admin \"Pritam M\"",
+    "timestamp": "2026-08-31T08:33:50.907Z"
+  },
+  {
+    "id": "bbffe3b1-9d03-4347-8fcb-61cb91266097",
+    "action": "ADMIN_ADDED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" added new admin \"Anubrata M\"",
+    "timestamp": "2026-08-31T08:33:34.229Z"
+  },
+  {
+    "id": "05c3764f-3529-43f3-b47b-60dbdaaf1cd3",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Anubrata Mazumdar\" (m.anubrata@itorizin.in) updated",
+    "timestamp": "2026-08-31T08:00:49.264Z"
+  },
+  {
+    "id": "287eff62-2cd5-460a-8f95-16aaa73b4068",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Pritam Mandal\" (m.pritam@itorizin.in) updated",
+    "timestamp": "2026-08-31T08:00:13.585Z"
+  },
+  {
+    "id": "e502f982-c6dc-4f1b-88e4-67db72631dd8",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Kranthi Kumar\" deleted",
+    "timestamp": "2026-08-31T07:59:44.278Z"
+  },
+  {
+    "id": "6bdb99ce-4cd7-4890-b917-2b76a51b2856",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Basudev Gangopadhyay\" (g.basudev@itorizin.in) updated",
+    "timestamp": "2026-08-31T07:59:31.262Z"
+  },
+  {
+    "id": "943eafb0-b698-45c8-8d29-275dbea34aa9",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-31T07:58:59.342Z"
+  },
+  {
+    "id": "4bf67f92-6586-4737-91b2-a9582d39ff3b",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (12:49)",
+    "detail": "[Auto Scheduler (12:49)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-31T07:19:17.508Z"
+  },
+  {
+    "id": "0f2f637b-bee7-4535-ad58-b2bdfc0e5aaa",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (12:49)",
+    "detail": "[Auto Scheduler (12:49)] Automated Birthday Card sent to \"Basudev Gangopadhyay\" (basudev.gangopadhyay@example.com)",
+    "timestamp": "2026-08-31T07:19:17.506Z"
+  },
+  {
+    "id": "a5e18fe4-4a5c-494b-8348-53d5d16847a0",
+    "action": "ADMIN_LOGIN",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged in",
+    "timestamp": "2026-08-31T07:13:28.320Z"
+  },
+  {
+    "id": "fe2e7465-d380-4c8d-90df-f25a3a4fa307",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"sumit\" deleted",
+    "timestamp": "2026-08-30T09:04:56.842Z"
+  },
+  {
+    "id": "880acb13-baa5-47e3-b1fa-9efab5e4cc96",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"sumit\" (r.sumit@itorizin.in) updated",
+    "timestamp": "2026-08-30T09:04:38.819Z"
+  },
+  {
+    "id": "00659ec3-dc09-4d20-8c17-4358da9a4d53",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"sumit\" (r.sumit@itorizin.in) registered/updated",
+    "timestamp": "2026-08-30T09:04:29.260Z"
+  },
+  {
+    "id": "45735943-6836-4106-b48f-9ede80111e12",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-30T09:04:04.701Z"
+  },
+  {
+    "id": "ed3afe31-d64d-4bd5-b8ce-b3bb88a8d2a0",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-30T09:03:35.261Z"
+  },
+  {
+    "id": "8852d66c-a0c6-44d8-94f2-fc60d04a3013",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Rabbi Wasti\" deleted",
+    "timestamp": "2026-08-30T09:03:15.162Z"
+  },
+  {
+    "id": "0de87584-efab-46ee-ba64-0a174a2a0214",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"sumit\" deleted",
+    "timestamp": "2026-08-30T09:03:15.056Z"
+  },
+  {
+    "id": "c0a9f5c6-b77e-44e2-8941-d70b11595fc5",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Rabbi Wasti\" (w.rabbi@itorizin.in) by admin \"admin\"",
+    "timestamp": "2026-08-30T07:21:04.677Z"
+  },
+  {
+    "id": "25806782-41e2-4c04-b9c1-c8b118c124a9",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (12:49)",
+    "detail": "[Auto Scheduler (12:49)] Completed birthday job: 0 emails sent (1 recipient(s) already received today's card)",
+    "timestamp": "2026-08-30T07:19:00.389Z"
+  },
+  {
+    "id": "17ec257f-d21e-4dc0-a5f3-cb408debec79",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 12:49 by \"admin\"",
+    "timestamp": "2026-08-30T07:18:18.436Z"
+  },
+  {
+    "id": "a99defad-3e89-4978-a687-832f7e63a5d5",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 12:49 by \"admin\"",
+    "timestamp": "2026-08-30T07:18:16.410Z"
+  },
+  {
+    "id": "7b6a4a87-228a-4dbc-ad0a-d21e1896e9d4",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"sumit\" (sumitram9800888@gmail.com) registered/updated",
+    "timestamp": "2026-08-30T07:17:44.906Z"
+  },
+  {
+    "id": "cccca8b0-08a3-496f-b8f7-60eef475b8ac",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Rabbi Wasti\" (w.rabbi@itorizin.in) registered/updated",
+    "timestamp": "2026-08-30T07:17:14.879Z"
+  },
+  {
+    "id": "00e481c4-2c90-4fc9-8964-a77f0027c45b",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Rabbi Wasti\" deleted",
+    "timestamp": "2026-08-30T07:01:36.849Z"
+  },
+  {
+    "id": "d479fea0-fe83-411b-be78-fa7a8a6018b4",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Rabbi Wasti\" (w.rabbi@itorizin.in) by admin \"admin\"",
+    "timestamp": "2026-08-30T06:57:05.905Z"
+  },
+  {
+    "id": "60459ad2-3f98-4a6c-9d9f-2bd81501f3da",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Rabbi Wasti\" (w.rabbi@itorizin.in) by admin \"admin\"",
+    "timestamp": "2026-08-30T06:54:18.214Z"
+  },
+  {
+    "id": "ccd2480c-710f-4cac-88c6-375ccebf1c39",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (12:23)",
+    "detail": "[Auto Scheduler (12:23)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-30T06:53:07.299Z"
+  },
+  {
+    "id": "95a06b01-0cf8-41cd-8bb8-9474b9c68cac",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (12:23)",
+    "detail": "[Auto Scheduler (12:23)] Automated Birthday Card sent to \"Rabbi Wasti\" (w.rabbi@itorizin.in)",
+    "timestamp": "2026-08-30T06:53:07.296Z"
+  },
+  {
+    "id": "95f3da6a-297a-4dbf-b844-97591b90dea5",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 12:23 by \"admin\"",
+    "timestamp": "2026-08-30T06:52:45.001Z"
+  },
+  {
+    "id": "37658e80-2f05-4475-b812-a4a2e82692d7",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 13:14 by \"admin\"",
+    "timestamp": "2026-08-30T06:52:30.122Z"
+  },
+  {
+    "id": "ac6e3064-8dd0-456d-865a-5ed538b2c252",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Rabbi Wasti\" (w.rabbi@itorizin.in) registered/updated",
+    "timestamp": "2026-08-30T06:52:07.025Z"
+  },
+  {
+    "id": "204a2795-9fb6-45bd-bf89-398331213c83",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" deleted",
+    "timestamp": "2026-08-30T06:43:33.883Z"
+  },
+  {
+    "id": "9de968ae-5fea-4829-b340-c26334c6705a",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"ABIR\" deleted",
+    "timestamp": "2026-08-30T06:43:31.207Z"
+  },
+  {
+    "id": "62d9b8de-b8da-4b6e-99ce-05bc54d7f49e",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Shruti Banerjee\" deleted",
+    "timestamp": "2026-08-30T06:43:29.397Z"
+  },
+  {
+    "id": "949bd5cf-c10d-41f5-a725-2294341644b0",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Susmita Sarkar\" deleted",
+    "timestamp": "2026-08-30T06:43:27.065Z"
+  },
+  {
+    "id": "bdef5f7a-02fd-4c8e-b000-fbe6b7634103",
+    "action": "EMPLOYEE_DELETED",
+    "actor": "system",
+    "detail": "Employee \"Abirlal Bera\" deleted",
+    "timestamp": "2026-08-30T06:43:25.012Z"
+  },
+  {
+    "id": "7263bb51-d813-4c08-b88f-e3403dfb455d",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-30T06:43:16.482Z"
+  },
+  {
+    "id": "62010d77-6bfa-4d29-8890-80ac86cc499c",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-29T18:30:06.623Z"
+  },
+  {
+    "id": "80da62d1-77e6-4828-9abe-8039f2939a5f",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (00:00)",
+    "detail": "[Auto Scheduler (00:00)] Automated Birthday Card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com)",
+    "timestamp": "2026-08-29T18:30:06.620Z"
+  },
+  {
+    "id": "a29ce0af-4bd2-4263-add1-4a9d0eac3032",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T16:48:17.077Z"
+  },
+  {
+    "id": "5439fac3-adb5-45f0-b8d4-a20adb1cb31e",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T16:45:19.702Z"
+  },
+  {
+    "id": "a85abc2f-cc57-4a08-8e1f-922eed8b43e7",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T16:44:05.649Z"
+  },
+  {
+    "id": "e9a35f00-9934-40d4-a6af-b9d4d906a8cf",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T16:43:52.254Z"
+  },
+  {
+    "id": "1db6ea81-6991-4906-a7db-c393d474fd9c",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T16:43:37.170Z"
+  },
+  {
+    "id": "d901bed9-a206-4034-9c97-6bb9b15614d4",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 00:00 by \"sumit\"",
+    "timestamp": "2026-08-29T16:38:32.557Z"
+  },
+  {
+    "id": "c32a3a63-049c-43d8-952b-d973e19c28c4",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" (sumitram9800888@gmail.com) updated",
+    "timestamp": "2026-08-29T16:38:14.287Z"
+  },
+  {
+    "id": "cb7ca985-7e0f-46f6-bc88-472783466c1d",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (22:06)",
+    "detail": "[Auto Scheduler (22:06)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:36:08.111Z"
+  },
+  {
+    "id": "0de66c23-bb18-4c19-ace8-3c310efd1370",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (22:06)",
+    "detail": "[Auto Scheduler (22:06)] Automated Birthday Card sent to \"ABIR\" (b.abirlal@itorizin.in)",
+    "timestamp": "2026-08-29T16:36:08.107Z"
+  },
+  {
+    "id": "54e961d9-cf7d-47bb-9769-f6a9039da4a2",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:06 by \"sumit\"",
+    "timestamp": "2026-08-29T16:34:58.531Z"
+  },
+  {
+    "id": "8b61a45a-8213-4800-8241-c2e58069f3cc",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:06 by \"sumit\"",
+    "timestamp": "2026-08-29T16:34:56.374Z"
+  },
+  {
+    "id": "d267da4d-846b-472b-b8b1-f1d9aadc5939",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"ABIR\" (b.abirlal@itorizin.in) registered/updated",
+    "timestamp": "2026-08-29T16:34:41.778Z"
+  },
+  {
+    "id": "4fd8cd17-f68e-4bd3-8779-37fa39dac3ef",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Shruti Banerjee\" (shrutibanerjee2003@gmail.com) by admin \"sumit\"",
+    "timestamp": "2026-08-29T16:32:59.143Z"
+  },
+  {
+    "id": "4a938bc0-d833-4228-b2fe-2efc1a00c061",
+    "action": "CRON_RUN",
+    "actor": "Admin Manual Trigger (sumit)",
+    "detail": "[Admin Manual Trigger (sumit)] Completed birthday job: 0 emails sent (3 recipient(s) already received today's card)",
+    "timestamp": "2026-08-29T16:32:31.769Z"
+  },
+  {
+    "id": "a7a723c4-d4f6-4e38-9e30-9e22497ff5d8",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (22:02)",
+    "detail": "[Auto Scheduler (22:02)] Completed birthday job: 0 emails sent (3 recipient(s) already received today's card)",
+    "timestamp": "2026-08-29T16:32:03.920Z"
+  },
+  {
+    "id": "7bd38eb0-6a50-415f-aa94-bad16c1277b7",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:02 by \"sumit\"",
+    "timestamp": "2026-08-29T16:31:09.514Z"
+  },
+  {
+    "id": "cb7c2a01-9bbe-4df9-8302-dfb25b0508c2",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (22:01)",
+    "detail": "[Auto Scheduler (22:01)] Completed birthday job: 0 emails sent (3 recipient(s) already received today's card)",
+    "timestamp": "2026-08-29T16:31:05.473Z"
+  },
+  {
+    "id": "da0729b6-3875-4546-b79d-2bc07e3bc3f7",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:01 by \"sumit\"",
+    "timestamp": "2026-08-29T16:31:05.468Z"
+  },
+  {
+    "id": "59958b7b-01ab-4841-aeec-5b8d065b2a96",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (22:00)",
+    "detail": "[Auto Scheduler (22:00)] Completed birthday job: 0 emails sent (3 recipient(s) already received today's card)",
+    "timestamp": "2026-08-29T16:30:03.796Z"
+  },
+  {
+    "id": "6889674d-1074-4dae-befd-aef53f9ea521",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:00 by \"sumit\"",
+    "timestamp": "2026-08-29T16:29:17.991Z"
+  },
+  {
+    "id": "6c486682-7db3-4bce-b374-6c6d77a750c4",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 22:00 by \"sumit\"",
+    "timestamp": "2026-08-29T16:29:16.249Z"
+  },
+  {
+    "id": "fafb1968-106c-4cd4-8f23-b0bda595b8bf",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 21:00 by \"sumit\"",
+    "timestamp": "2026-08-29T16:29:09.846Z"
+  },
+  {
+    "id": "11932462-4337-467f-8b9e-9dd64b195077",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:58)",
+    "detail": "[Auto Scheduler (21:58)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:29:03.431Z"
+  },
+  {
+    "id": "bca32854-2f21-4240-b162-63b436e8ed10",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:58)",
+    "detail": "[Auto Scheduler (21:58)] Automated Birthday Card sent to \"Shruti Banerjee\" (shrutibanerjee2003@gmail.com)",
+    "timestamp": "2026-08-29T16:29:03.422Z"
+  },
+  {
+    "id": "2009dab8-d604-4750-9a1d-d4c8aed80b0b",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 21:58 by \"sumit\"",
+    "timestamp": "2026-08-29T16:28:59.260Z"
+  },
+  {
+    "id": "5aa63923-e8ce-4df7-b424-7445b412f998",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Shruti Banerjee\" (shrutibanerjee2003@gmail.com) registered/updated",
+    "timestamp": "2026-08-29T16:28:46.753Z"
+  },
+  {
+    "id": "2e569d9a-ff17-4f1b-9d20-a54039998d5f",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com) by admin \"sumit\"",
+    "timestamp": "2026-08-29T16:27:04.721Z"
+  },
+  {
+    "id": "7eb4053c-56aa-4a27-bf43-74e35ede3447",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:57)",
+    "detail": "[Auto Scheduler (21:57)] Completed birthday job: 0 emails sent (2 recipient(s) already received today's card)",
+    "timestamp": "2026-08-29T16:27:03.516Z"
+  },
+  {
+    "id": "20ae224f-25b0-4d76-ba18-584cfe45fee1",
+    "action": "MAIL_SENT",
+    "actor": "sumit",
+    "detail": "Birthday card sent to \"Susmita Sarkar\" (susmita141316@gmail.com) by admin \"sumit\"",
+    "timestamp": "2026-08-29T16:26:32.344Z"
+  },
+  {
+    "id": "6d286349-4073-47ad-83a9-eaf4c09bed10",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 21:57 by \"sumit\"",
+    "timestamp": "2026-08-29T16:26:04.407Z"
+  },
+  {
+    "id": "bd65ce78-150b-4efa-b4cc-4942ab9ef384",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:55)",
+    "detail": "[Auto Scheduler (21:55)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:25:07.356Z"
+  },
+  {
+    "id": "8b53acea-0380-4f2a-8f39-9c9876a45e54",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:55)",
+    "detail": "[Auto Scheduler (21:55)] Automated Birthday Card sent to \"Susmita Sarkar\" (susmita141316@gmail.com)",
+    "timestamp": "2026-08-29T16:25:07.354Z"
+  },
+  {
+    "id": "d7f3d0b6-1211-42b4-94f7-e9c88a762a35",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 21:55 by \"sumit\"",
+    "timestamp": "2026-08-29T16:24:35.181Z"
+  },
+  {
+    "id": "e485940f-9f39-47d0-8887-7e3fea72c594",
+    "action": "ADMIN_LOGIN",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged in",
+    "timestamp": "2026-08-29T16:24:26.569Z"
+  },
+  {
+    "id": "0de3916b-5ccc-4727-b29c-fe6b5243e301",
+    "action": "EMPLOYEE_ADDED",
+    "actor": "system",
+    "detail": "Employee \"Susmita Sarkar\" (susmita141316@gmail.com) registered/updated",
+    "timestamp": "2026-08-29T16:24:17.299Z"
+  },
+  {
+    "id": "e180c110-52bd-4c80-bc95-16eb70ec15cd",
+    "action": "ADMIN_LOGOUT",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged out",
+    "timestamp": "2026-08-29T16:22:43.284Z"
+  },
+  {
+    "id": "55027ab3-d750-49a5-83bd-f4c92e191860",
+    "action": "ADMIN_LOGIN",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged in",
+    "timestamp": "2026-08-29T16:22:20.644Z"
+  },
+  {
+    "id": "ccb39b3b-6ff6-4af7-a507-96083ceca5cb",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T16:20:03.718Z"
+  },
+  {
+    "id": "37f9345f-2e25-4eb1-bec5-99f765531844",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T16:19:26.327Z"
+  },
+  {
+    "id": "06e1a4f3-0dfe-415d-8612-61532aa44f99",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:49)",
+    "detail": "[Auto Scheduler (21:49)] Completed birthday job: Sent 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:19:06.834Z"
+  },
+  {
+    "id": "9469c90a-e23d-4070-9b4b-fdb83a842f5c",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:49)",
+    "detail": "[Auto Scheduler (21:49)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:19:06.831Z"
+  },
+  {
+    "id": "926e030a-2b84-4090-8e59-7872b964ae3f",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:49 by \"admin\"",
+    "timestamp": "2026-08-29T16:18:26.217Z"
+  },
+  {
+    "id": "d0d767d6-ac37-4a29-a214-e832db3e96c1",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:14:14.876Z"
+  },
+  {
+    "id": "cfeb6db7-29c2-4fc2-a7b2-c306672352e1",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:14:14.875Z"
+  },
+  {
+    "id": "25f87e9c-5c85-4d5d-bdf0-d1597ec3fc5a",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:14:07.154Z"
+  },
+  {
+    "id": "b5f52a6c-284e-439a-9502-b7addf9ec3cc",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:14:07.151Z"
+  },
+  {
+    "id": "8879a271-dc8e-4c37-b14b-3fce0c04ad4d",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:14:06.444Z"
+  },
+  {
+    "id": "ec9a7046-305b-49e3-b330-c70c468a0a98",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:14:06.441Z"
+  },
+  {
+    "id": "f4232ff3-e3bc-4497-91a0-def87299cb40",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:14:04.729Z"
+  },
+  {
+    "id": "009c13b0-5cf2-4e9b-8ecb-71bb823d76c4",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:44)",
+    "detail": "[Auto Scheduler (21:44)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:14:04.720Z"
+  },
+  {
+    "id": "b1263261-5945-4885-bce4-568fa2135bf1",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:44 by \"admin\"",
+    "timestamp": "2026-08-29T16:13:23.933Z"
+  },
+  {
+    "id": "b23c8f64-2bc2-417a-9178-4038917a0437",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:11:06.606Z"
+  },
+  {
+    "id": "8ef4477c-4aaa-4cad-906b-3e091b5cb39c",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:11:06.602Z"
+  },
+  {
+    "id": "827da726-0185-430f-81df-37c926fab12b",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:11:06.094Z"
+  },
+  {
+    "id": "649718a4-3240-4aa4-a387-ccb90b979b87",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:11:06.093Z"
+  },
+  {
+    "id": "465bd76f-f8f4-4b1c-9d8d-758986722370",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Completed birthday job: Sent 1 of 1 birthday card(s)",
+    "timestamp": "2026-08-29T16:11:05.944Z"
+  },
+  {
+    "id": "b324a9b7-7963-438b-8df7-843e3d811686",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:41)",
+    "detail": "[Auto Scheduler (21:41)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:11:05.942Z"
+  },
+  {
+    "id": "3098e680-25e8-4b98-acae-5809f8462b3e",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:41 by \"admin\"",
+    "timestamp": "2026-08-29T16:10:18.386Z"
+  },
+  {
+    "id": "87f9cd96-c2a1-4134-86f8-0b7aec119b98",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:41 by \"admin\"",
+    "timestamp": "2026-08-29T16:10:16.421Z"
+  },
+  {
+    "id": "4423e454-43f7-4287-8612-3eebaf857d86",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:39 by \"admin\"",
+    "timestamp": "2026-08-29T16:10:11.206Z"
+  },
+  {
+    "id": "abf9d7e1-17f8-448c-8bfc-e3f2e6c95497",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" (sumitram9800888@gmail.com) updated",
+    "timestamp": "2026-08-29T16:09:59.528Z"
+  },
+  {
+    "id": "b2278427-3a71-435c-be1e-fcc924c1837a",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Completed birthday job: Sent 2 of 2 birthday card(s)",
+    "timestamp": "2026-08-29T16:09:10.124Z"
+  },
+  {
+    "id": "836a7be7-56f7-41cb-9a65-b67704c9fc3a",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:09:10.117Z"
+  },
+  {
+    "id": "14ca350d-0af6-474c-9dd1-c28f25afe21a",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Completed birthday job: Sent 2 of 2 birthday card(s)",
+    "timestamp": "2026-08-29T16:09:09.989Z"
+  },
+  {
+    "id": "84732bd3-0759-4005-95fa-c645f1781d6d",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:09:09.983Z"
+  },
+  {
+    "id": "85a9b97a-d68e-457c-b83f-5959c4ab63b0",
+    "action": "CRON_RUN",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Completed birthday job: Sent 2 of 2 birthday card(s)",
+    "timestamp": "2026-08-29T16:09:09.489Z"
+  },
+  {
+    "id": "5cac996e-9c58-4644-8425-916712812f16",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com)",
+    "timestamp": "2026-08-29T16:09:09.486Z"
+  },
+  {
+    "id": "08140596-dfbe-4f2c-9e87-f80846661839",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com)",
+    "timestamp": "2026-08-29T16:09:06.205Z"
+  },
+  {
+    "id": "bae2683f-1f77-4761-9e1e-046a31567294",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com)",
+    "timestamp": "2026-08-29T16:09:06.161Z"
+  },
+  {
+    "id": "799d90e5-52b8-48d4-a983-50b912c4b22d",
+    "action": "MAIL_SENT",
+    "actor": "Auto Scheduler (21:39)",
+    "detail": "[Auto Scheduler (21:39)] Automated Birthday Card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com)",
+    "timestamp": "2026-08-29T16:09:05.748Z"
+  },
+  {
+    "id": "822efc25-27f4-4342-bc56-b5aef4c7e918",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:39 by \"admin\"",
+    "timestamp": "2026-08-29T16:07:53.034Z"
+  },
+  {
+    "id": "fa8b4a22-810f-486c-bb89-37b17710a711",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:39 by \"admin\"",
+    "timestamp": "2026-08-29T16:07:50.562Z"
+  },
+  {
+    "id": "963442f0-0549-49ea-9a67-5f8210d46c29",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Abirlal Bera\" (abirlalbera24@gmail.com) by admin \"admin\"",
+    "timestamp": "2026-08-29T16:00:18.219Z"
+  },
+  {
+    "id": "eaf3b2f0-4b8e-4cab-a425-3d0260fd2dbe",
+    "action": "MAIL_SENT",
+    "actor": "admin",
+    "detail": "Birthday card sent to \"Sumit Kumar Ram\" (sumitram9800888@gmail.com) by admin \"admin\"",
+    "timestamp": "2026-08-29T16:00:08.157Z"
+  },
+  {
+    "id": "a98e4edf-352b-4b93-bc07-f18942f079ce",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T15:57:31.056Z"
+  },
+  {
+    "id": "8c76036e-7b89-4189-9ec1-3796e89a2567",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T15:55:18.823Z"
+  },
+  {
+    "id": "61d0cc4b-8e24-47ce-aba3-74ecb87222f0",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 21:28 by \"admin\"",
+    "timestamp": "2026-08-29T15:55:08.482Z"
+  },
+  {
+    "id": "743fca7c-c499-40c3-b207-f5fec304ff8a",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Abirlal Bera\" (abirlalbera24@gmail.com) updated",
+    "timestamp": "2026-08-29T15:54:25.667Z"
+  },
+  {
+    "id": "3a319531-6adc-4e97-aee5-11ce96ef119c",
+    "action": "EMPLOYEE_UPDATED",
+    "actor": "system",
+    "detail": "Employee \"Sumit Kumar Ram\" (sumitram9800888@gmail.com) updated",
+    "timestamp": "2026-08-29T15:54:20.498Z"
+  },
+  {
+    "id": "1e16bdae-210c-49aa-be6d-d065b054f23b",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T15:53:43.159Z"
+  },
+  {
+    "id": "1f860408-7de2-40c6-a2ce-677be2dacc36",
+    "action": "ADMIN_LOGOUT",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged out",
+    "timestamp": "2026-08-29T15:52:31.447Z"
+  },
+  {
+    "id": "55559122-7ab4-4384-b75c-69bf691b4faf",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "sumit",
+    "detail": "Cron schedule updated to 21:23 by \"sumit\"",
+    "timestamp": "2026-08-29T15:51:55.838Z"
+  },
+  {
+    "id": "f66936f9-f853-4f9b-8e78-27d352a1abdd",
+    "action": "ADMIN_LOGIN",
+    "actor": "sumit",
+    "detail": "Admin \"sumit\" logged in",
+    "timestamp": "2026-08-29T15:51:22.596Z"
+  },
+  {
+    "id": "226ea2de-c008-4381-af25-defd339dd5fd",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T15:36:54.274Z"
+  },
+  {
+    "id": "0f38cf25-84a6-4940-a6bf-cae59c091b18",
+    "action": "ADMIN_ADDED",
+    "actor": "admin",
+    "detail": "Admin \"admin\" added new admin \"sumit\"",
+    "timestamp": "2026-08-29T15:36:50.621Z"
+  },
+  {
+    "id": "5ba8dc87-9916-4b43-8f88-903fb0aaf60a",
+    "action": "CRON_CONFIG_UPDATED",
+    "actor": "admin",
+    "detail": "Cron schedule updated to 00:00 by \"admin\"",
+    "timestamp": "2026-08-29T15:36:19.876Z"
+  },
+  {
+    "id": "bdd120a5-bcb8-453f-995e-38225b8b52c0",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T15:35:25.686Z"
+  },
+  {
+    "id": "e82da10a-8223-43fd-94ab-ff58f01b0bf3",
+    "action": "ADMIN_LOGOUT",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged out",
+    "timestamp": "2026-08-29T15:32:20.177Z"
+  },
+  {
+    "id": "e120a305-62cf-4503-bd4f-0627789a48c7",
+    "action": "ADMIN_LOGIN",
+    "actor": "admin",
+    "detail": "Admin \"admin\" logged in",
+    "timestamp": "2026-08-29T15:30:36.230Z"
+  }
+]

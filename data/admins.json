@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d2e51582-d57f-4a05-8940-0529ff9f8fa4",
+    "username": "Anubrata M",
+    "passwordHash": "$2b$10$v1lJ2m9eL4YhppB/.2xY8.zxKGXbAfhc3zMOLRUJFCuhGaYOI5cgK",
+    "createdAt": "2026-08-31T08:33:34.228Z"
+  },
+  {
+    "id": "20bf4efc-9288-4e88-b524-768238214987",
+    "username": "Pritam M",
+    "passwordHash": "$2b$10$Mz.EdlWnwvJXUw6B7HvHPefgeJPeGlR2gBy6pC2J27ggiZBTaXwEa",
+    "createdAt": "2026-08-31T08:33:50.905Z"
+  },
+  {
+    "id": "8176d84b-697d-4e62-9d28-5dbdc195abcd",
+    "username": "Sumit",
+    "passwordHash": "$2b$10$lUYctutcDHPYiK5bYhy3au.lMX/AQKzE67WsGrrzqzLdrRGJl3W6G",
+    "createdAt": "2026-08-31T15:56:19.298Z"
+  },
+  {
+    "id": "e1b28c2e-9ca5-4bbd-8b44-93b2bac88990",
+    "username": "Sampad",
+    "passwordHash": "$2b$10$bkHA.aC.GUKGI4InZOzkW.O.VlvbVkPE5R.jbtKOtwqXUXom8ABB6",
+    "createdAt": "2026-09-07T13:01:38.469Z"
+  },
+  {
+    "id": "192312c4-dd8e-4341-a6b4-af047cd2c935",
+    "username": "Prerana",
+    "passwordHash": "$2b$10$aqYHbCgp0U19/z9EVLnzTe2nE47eTMo6UYS1jPhKVmBjptoRYaVGa",
+    "createdAt": "2026-09-14T12:15:33.841Z"
+  }
+]
