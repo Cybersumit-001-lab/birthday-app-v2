@@ -54,4 +54,4 @@ Authorization: Bearer mybirthdaysecret2026
 Or after deploying, use the same path on your server.
 
 
-Birthday App pass - aghkrhuhytndyrxa
+Birthday App pass - aghkrhuhytndyrxa 
