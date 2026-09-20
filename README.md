@@ -51,7 +51,26 @@ GET http://localhost:3000/api/cron
 Authorization: Bearer mybirthdaysecret2026
 ```
 
-Or after deploying, use the same path on your server.
+## Background Service & 15-Minute Auto-Updater
 
+The app includes an automated system that keeps the service running independently of Antigravity/terminals and automatically fetches/applies updates from GitHub every 15 minutes.
 
-Birthday App pass - aghkrhuhytndyrxa
+### Register Auto-Update via Windows Task Scheduler (Run once)
+```bash
+npm run app:scheduler
+```
+* **100% Task Scheduler Driven**: No startup folder scripts required.
+* **Auto-Update**: Runs every 15 minutes via Windows Task Scheduler (`BirthdayApp-AutoUpdate`). Checks `origin/main`, pulls new commits, rebuilds, and restarts the app.
+* **On Reboot / Startup**: Configured with `StartWhenAvailable`, so Windows Task Scheduler automatically runs it as soon as the computer starts up/wakes up.
+* **Self-Healing**: If the app is ever stopped, the scheduled task automatically detects that port 3000 is inactive and restarts it.
+
+### Service Commands
+- **Start App in background**: `npm run app:start`
+- **Stop App**: `npm run app:stop`
+- **Restart App**: `npm run app:restart`
+- **Manual update check**: `npm run app:update`
+- **Unregister background services**: `powershell -ExecutionPolicy Bypass -File ./scripts/unregister-scheduler.ps1`
+
+### Logs
+- Auto-update activity: `logs/auto-update.log`
+- Application output: `logs/app.log`

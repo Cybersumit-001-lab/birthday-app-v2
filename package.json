@@ -5,7 +5,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "app:start": "powershell -ExecutionPolicy Bypass -File ./scripts/start-service.ps1",
+    "app:stop": "powershell -ExecutionPolicy Bypass -File ./scripts/stop-service.ps1",
+    "app:restart": "powershell -ExecutionPolicy Bypass -File ./scripts/restart-service.ps1",
+    "app:update": "powershell -ExecutionPolicy Bypass -File ./scripts/check-and-update.ps1",
+    "app:scheduler": "powershell -ExecutionPolicy Bypass -File ./scripts/register-scheduler.ps1",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop birthday-app",
+    "pm2:restart": "pm2 restart birthday-app",
+    "pm2:logs": "pm2 logs birthday-app",
+    "pm2:status": "pm2 status"
   },
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
